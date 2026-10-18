@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home-project-calculators.pages.dev/sitemap.xml
